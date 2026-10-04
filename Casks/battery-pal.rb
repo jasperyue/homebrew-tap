@@ -7,7 +7,7 @@ cask "battery-pal" do
   desc "Menu bar battery indicator with expressive faces and charging animation"
   homepage "https://github.com/jasperyue/BatteryPal"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
   depends_on arch: :arm64
 
   app "Battery Pal.app"
