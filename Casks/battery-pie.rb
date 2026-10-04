@@ -1,6 +1,6 @@
 cask "battery-pie" do
-  version "1.2.1"
-  sha256 "0aba018f35a98bbc7e1c78e108c0f0148254d40ba4c9dd04b5d0f14aa95e39f9"
+  version "1.3.0"
+  sha256 "c19d745c876c2a452137bcb71739a3b48b56e405839f86de2886de683e38de9a"
 
   url "https://github.com/jasperyue/BatteryPie/releases/download/v#{version}/BatteryPie-#{version}-arm64.dmg"
   name "Battery Pie"
